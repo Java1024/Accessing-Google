@@ -30,8 +30,10 @@ https://wen.lu/<br/>
 https://g.conn.cc/<br/>
 http://google.0zv.net/<br/>
 
+或者通过：https://github.com/getlantern/lantern  来翻墙，免费的翻墙工具
 
 
+官网：https://getlantern.org/
 
 
 我的主页：http://segmentfault.com/u/trigkit4
